@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   emails = [
     {email: 'ken@me.com', important: true, subject: 'Kens Life', content: 'Work Study Dad Repeat.'},
-    {email: 'Snow@me.com', important: true, subject: 'Princess', content: 'Ariel, Jasmine, Merida, Snow, Moana, Rupunzel, Mulan.'},
-    {email: 'Emmy@me.com', important: false, subject: 'Baby Steps', content: 'crawling, standing, pooping, eating, drinking, crying, sleeping.'},
+    {email: 'snow@me.com', important: true, subject: 'Princess', content: 'Ariel, Jasmine, Merida, Snow, Moana, Rupunzel, Mulan.'},
+    {email: 'emmy@me.com', important: false, subject: 'Baby Steps', content: 'crawling, standing, pooping, eating, drinking, crying, sleeping.'},
     {email: 'mysterion@me.com', important: false, subject: 'South Park', content: 'The Fractured But Whole'}
   ]
   myColor = 'red';
